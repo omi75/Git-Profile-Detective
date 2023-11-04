@@ -355,8 +355,9 @@
     }
     
     .other-data{
+      width: 100%;
       gap: 18px;
-      margin-bottom: -20px;
+      margin-bottom: -30px;
       padding-top:25px;
       padding-bottom:14px;
       display: grid;
